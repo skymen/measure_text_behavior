@@ -355,7 +355,7 @@ module.exports = {
           type: "string",
         },
       ],
-      description: "Measures the width of the given text",
+      description: "Measures the width of the given text.",
     },
     MeasureHeight: {
       category: "general",
@@ -372,7 +372,7 @@ module.exports = {
           type: "string",
         },
       ],
-      description: "Measures the height of the given text",
+      description: "Measures the height of the given text.",
     },
     FullWidth: {
       category: "general",
@@ -382,7 +382,7 @@ module.exports = {
       deprecated: false,
       returnType: "number",
       params: [],
-      description: "Measures the width of the object's text",
+      description: "Measures the width of the object's text.",
     },
     FullHeight: {
       category: "general",
@@ -392,7 +392,7 @@ module.exports = {
       deprecated: false,
       returnType: "number",
       params: [],
-      description: "Measures the height of the object's text",
+      description: "Measures the height of the object's text.",
     },
   },
 };
